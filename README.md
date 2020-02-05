@@ -1,7 +1,14 @@
 # Palanta
-Palanta repository combining frontend and backend.
+
+This repository combines the Palanta frontend and backend with the help of Docker Compose.
+You must install Docker and Docker Compose and then run:
+
+```docker-compose up```
+
+The frontend can be accessed through port 80.
 
 ## Design
+
 ### Introduction
 *Paleography* (or *Palaeography*, in British English) is the study of
 ancient handwriting, that is, the writing itself and not its contents.
